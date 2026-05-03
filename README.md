@@ -1,6 +1,6 @@
 # ECB Communication, CSPP, and Climate: Green vs Brown Bond Yields
 
-Replication code for *[Paper title]*.
+Replication code for "The Effects of Greening Unconventional Monetary Policy"
 
 > This repository contains all Stata analysis code for the paper. The project studies how the ECB's Corporate Sector Purchase Programme (CSPP) and its climate-related communications affected the borrowing costs of green and brown firms, using bond-level yield-to-maturity data and firm-level equity returns around the announcement.
 
